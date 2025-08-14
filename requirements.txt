@@ -1,0 +1,4 @@
+pyTelegramBotAPI==4.11.0
+yt-dlp==2025.08.14
+ShazamAPI==0.7.0
+requests==2.31.0
